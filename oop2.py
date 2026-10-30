@@ -14,7 +14,7 @@ class Circle:
         print("Perimeter", self.get_perimeter())
         print("Area", self.get_area())
 
-c1 = Circle(14)
+c1 = Circle(14) # object
 c2 = Circle(19.77)
 
 c1.print_details()
